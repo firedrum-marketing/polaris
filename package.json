@@ -70,7 +70,7 @@
     "image-webpack-loader": "^3.3.1",
     "in-publish": "^2.0.0",
     "jest": "^21.2.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "npm-run-all": "^4.0.2",
     "postcss": "^6.0.1",
     "postcss-loader": "^2.0.5",
